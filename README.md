@@ -1,6 +1,7 @@
 # KukaResumeVault
 一个个人简历投递管理系统
-## 前端仓库
+## 仓库地址
+- 前端仓库
 https://github.com/Kuroshika/KRV-front
-## 后端仓库
+- 后端仓库
 https://github.com/Kuroshika/KRV-backend
